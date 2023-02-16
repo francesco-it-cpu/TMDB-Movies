@@ -1,0 +1,501 @@
+,title,predicted_score,real_score
+0,Avatar,7.12,7.18
+1,Pirates of the Caribbean: At World's End,6.48,6.86
+2,Spectre,6.65,6.29
+3,The Dark Knight Rises,7.2,7.56
+4,John Carter,6.18,6.1
+5,Spider-Man 3,6.79,5.91
+6,Tangled,6.68,7.31
+7,Avengers: Age of Ultron,6.9,7.26
+8,Harry Potter and the Half-Blood Prince,6.24,7.34
+9,Batman v Superman: Dawn of Justice,6.54,5.71
+10,Quantum of Solace,6.19,6.1
+11,Pirates of the Caribbean: Dead Man's Chest,6.47,6.96
+12,The Lone Ranger,6.55,5.92
+13,Man of Steel,6.51,6.49
+14,The Chronicles of Narnia: Prince Caspian,6.64,6.27
+15,The Avengers,6.89,7.37
+16,Pirates of the Caribbean: On Stranger Tides,5.94,6.39
+17,Men in Black 3,6.42,6.19
+18,The Hobbit: The Battle of the Five Armies,6.95,7.05
+19,The Amazing Spider-Man,6.15,6.49
+20,Robin Hood,6.78,6.18
+21,The Hobbit: The Desolation of Smaug,7.12,7.53
+22,The Golden Compass,6.77,5.84
+23,King Kong,6.96,6.55
+24,Titanic,6.95,7.46
+25,Captain America: Civil War,6.84,7.07
+26,Battleship,6.68,5.56
+27,Jurassic World,5.84,6.49
+28,Skyfall,6.4,6.88
+29,Spider-Man 2,6.71,6.67
+30,Iron Man 3,6.95,6.78
+31,Alice in Wonderland,6.46,6.39
+32,X-Men: The Last Stand,6.28,6.29
+33,Monsters University,6.75,6.94
+34,Transformers: Revenge of the Fallen,6.21,6.01
+35,Transformers: Age of Extinction,6.23,5.82
+36,Oz: The Great and Powerful,6.75,5.72
+37,The Amazing Spider-Man 2,6.15,6.48
+38,TRON: Legacy,6.72,6.28
+39,Cars 2,6.4,5.83
+40,Green Lantern,6.89,5.19
+41,Toy Story 3,6.34,7.53
+42,Terminator Salvation,6.07,5.92
+43,Furious 7,6.79,7.24
+44,World War Z,6.51,6.68
+45,X-Men: Days of Future Past,6.65,7.45
+46,Star Trek Into Darkness,6.93,7.33
+47,Jack the Giant Slayer,6.32,5.55
+48,The Great Gatsby,7.03,7.23
+49,Prince of Persia: The Sands of Time,6.58,6.19
+50,Pacific Rim,6.86,6.67
+51,Transformers: Dark of the Moon,6.2,6.1
+52,Indiana Jones and the Kingdom of the Crystal Skull,6.29,5.73
+53,The Good Dinosaur,6.87,6.54
+54,Brave,6.51,6.67
+55,WALL·E,6.41,7.74
+56,Rush Hour 3,6.33,6.1
+57,2012,6.44,5.62
+58,A Christmas Carol,6.76,6.51
+59,Jupiter Ascending,6.63,5.27
+60,The Legend of Tarzan,6.0,5.55
+61,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",6.6,6.65
+62,X-Men: Apocalypse,6.57,6.39
+63,The Dark Knight Rises,7.2,8.16
+64,Monsters vs Aliens,6.31,6.01
+65,Iron Man 3,6.95,7.37
+66,Hugo,7.21,6.91
+67,Wild Wild West,6.53,5.29
+68,The Mummy: Tomb of the Dragon Emperor,6.06,5.33
+69,Suicide Squad,6.29,5.91
+70,Evan Almighty,6.28,5.43
+71,Edge of Tomorrow,6.5,7.53
+72,Waterworld,6.4,5.94
+73,G.I. Joe: The Rise of Cobra,6.2,5.65
+74,Inside Out,6.47,7.93
+75,Iron Man 2,6.21,6.58
+76,Snow White and the Huntsman,6.11,5.82
+77,Maleficent,5.61,6.95
+78,Dawn of the Planet of the Apes,6.78,7.24
+79,47 Ronin,6.25,5.93
+80,Captain America: The Winter Soldier,6.77,7.54
+81,Shrek Forever After,6.4,6.01
+82,Tomorrowland,6.41,6.19
+83,Big Hero 6,6.61,7.74
+84,Wreck-It Ralph,6.56,7.05
+85,The Polar Express,6.29,6.36
+86,Independence Day: Resurgence,6.58,5.0
+87,How to Train Your Dragon,6.72,7.43
+88,Terminator 3: Rise of the Machines,6.3,5.92
+89,Guardians of the Galaxy,6.9,7.86
+90,Interstellar,6.98,8.06
+91,Inception,6.19,8.07
+92,The Hobbit: An Unexpected Journey,6.96,6.97
+93,The Fast and the Furious,5.76,6.57
+94,The Curious Case of Benjamin Button,7.23,7.22
+95,X-Men: First Class,6.86,7.06
+96,The Hunger Games: Mockingjay - Part 2,6.35,6.57
+97,The Sorcerer's Apprentice,6.31,5.84
+98,Poseidon,6.51,5.67
+99,Alice Through the Looking Glass,7.01,6.45
+100,Shrek the Third,7.05,6.01
+101,Warcraft,6.58,6.28
+102,Terminator Genisys,6.61,5.82
+103,The Chronicles of Narnia: The Voyage of the Dawn Treader,5.95,6.19
+104,Pearl Harbor,6.71,6.54
+105,Transformers: Revenge of the Fallen,6.21,6.57
+106,Alexander,6.71,5.7
+107,Harry Potter and the Order of the Phoenix,6.29,7.35
+108,Harry Potter and the Goblet of Fire,6.41,7.44
+109,Hancock,7.1,6.19
+110,I Am Legend,6.5,6.86
+111,Charlie and the Chocolate Factory,6.47,6.66
+112,Ratatouille,5.87,7.43
+113,Batman Begins,7.09,7.46
+114,Madagascar: Escape 2 Africa,6.63,6.19
+115,Night at the Museum: Battle of the Smithsonian,6.0,5.92
+116,X-Men Origins: Wolverine,6.37,6.19
+117,The Matrix Revolutions,6.18,6.38
+118,Frozen,6.73,7.25
+119,The Matrix Reloaded,6.15,6.66
+120,Thor: The Dark World,6.24,6.77
+121,Mad Max: Fury Road,6.74,7.17
+122,Thor: The Dark World,6.24,6.58
+123,Bolt,6.83,6.28
+124,G-Force,6.31,5.41
+125,Wrath of the Titans,6.12,5.58
+126,Dark Shadows,6.72,5.74
+127,Mission: Impossible - Rogue Nation,6.87,7.03
+128,Bee Movie,6.01,5.77
+129,Kung Fu Panda 2,6.59,6.63
+130,The Last Airbender,6.03,4.94
+131,Mission: Impossible III,6.66,6.46
+132,White House Down,6.35,6.37
+133,Flushed Away,6.64,6.02
+134,Kung Fu Panda 2,6.59,5.94
+135,Mr. Peabody & Sherman,6.05,6.57
+136,Troy,6.72,6.84
+137,Madagascar 3: Europe's Most Wanted,6.6,6.36
+138,Die Another Day,6.42,5.85
+139,Ghostbusters,6.17,5.38
+140,Armageddon,6.2,6.37
+141,Men in Black II,6.44,6.01
+142,Beowulf,6.0,5.63
+143,Kung Fu Panda 3,6.5,6.62
+144,Mission: Impossible - Ghost Protocol,6.4,6.76
+145,Rise of the Guardians,6.82,6.99
+146,Fun with Dick and Jane,6.28,5.95
+147,The Last Samurai,6.73,7.17
+148,Exodus: Gods and Kings,6.82,5.65
+149,Star Trek Into Darkness,6.93,7.34
+150,Spider-Man 3,6.79,6.77
+151,How to Train Your Dragon 2,6.34,7.49
+152,Gods of Egypt,6.48,5.42
+153,Stealth,5.89,5.4
+154,Watchmen,6.46,6.93
+155,Lethal Weapon 4,6.31,6.25
+156,Hulk,6.96,5.41
+157,Sahara,5.81,5.84
+158,Final Fantasy: The Spirits Within,6.19,5.97
+159,Captain America: The First Avenger,6.2,6.58
+160,The World Is Not Enough,6.21,6.02
+161,Master and Commander: The Far Side of the World,7.13,6.71
+162,The Twilight Saga: Breaking Dawn - Part 2,6.26,6.1
+163,Happy Feet Two,6.48,5.91
+164,The Incredible Hulk,6.26,6.1
+165,The BFG,6.04,6.02
+166,The Revenant,7.12,7.26
+167,Turbo,6.61,6.1
+168,Rango,6.66,6.55
+169,Penguins of Madagascar,6.23,6.44
+170,The Bourne Ultimatum,6.52,7.21
+171,Kung Fu Panda 2,6.59,6.84
+172,Ant-Man,6.43,6.97
+173,The Hunger Games: Catching Fire,6.27,7.35
+174,Home,6.34,6.7
+175,War of the Worlds,6.43,6.19
+176,Bad Boys II,6.1,6.27
+177,Puss in Boots,6.9,6.29
+178,Salt,6.47,6.19
+179,Noah,6.89,5.65
+180,The Adventures of Tintin,6.56,6.64
+181,Harry Potter and the Prisoner of Azkaban,7.19,7.64
+182,Australia,6.69,6.25
+183,After Earth,6.08,5.09
+184,The Good Dinosaur,6.87,6.17
+185,Night at the Museum: Secret of the Tomb,6.26,6.1
+186,Megamind,6.13,6.63
+187,Harry Potter and the Philosopher's Stone,6.59,7.45
+188,R.I.P.D.,6.33,5.51
+189,Pirates of the Caribbean: The Curse of the Black Pearl,6.42,7.45
+190,The Hunger Games: Mockingjay - Part 1,6.39,6.58
+191,The Da Vinci Code,6.66,6.47
+192,Rio 2,6.23,6.26
+193,X2,6.59,6.76
+194,Fast Five,6.3,7.01
+195,Sherlock Holmes: A Game of Shadows,6.78,6.95
+196,Clash of the Titans,6.45,5.65
+197,Total Recall,5.91,6.98
+198,The 13th Warrior,6.35,6.3
+199,The Bourne Legacy,6.68,6.01
+200,Batman & Robin,6.55,4.47
+201,How the Grinch Stole Christmas,6.7,6.18
+202,The Day After Tomorrow,6.06,6.19
+203,Mission: Impossible III,6.66,5.92
+204,The Perfect Storm,6.92,6.17
+205,4: Rise of the Silver Surfer,6.52,5.46
+206,Life of Pi,6.53,7.16
+207,Ghost Rider,6.19,5.31
+208,Jason Bourne,6.48,5.92
+209,Charlie's Angels: Full Throttle,6.23,5.38
+210,Prometheus,6.93,6.29
+211,Stuart Little 2,6.12,5.59
+212,Elysium,6.68,6.38
+213,The Chronicles of Riddick,6.19,6.27
+214,RoboCop,6.53,5.74
+215,Speed Racer,6.34,5.86
+216,Knight and Day,6.89,5.93
+217,Oblivion,6.58,6.39
+218,Star Wars: Episode III - Revenge of the Sith,6.68,7.05
+219,Star Wars: Episode II - Attack of the Clones,6.75,6.38
+220,"Monsters, Inc.",6.59,7.45
+221,The Wolverine,7.21,6.29
+222,Star Wars: Episode I - The Phantom Menace,6.92,6.29
+223,The Croods,6.97,6.74
+224,Windtalkers,6.46,5.92
+225,The Huntsman: Winter's War,6.61,6.01
+226,Teenage Mutant Ninja Turtles,6.41,5.82
+227,Gravity,6.59,7.25
+228,Dante's Peak,5.9,5.84
+229,Teenage Mutant Ninja Turtles: Out of the Shadows,6.09,5.86
+230,Fantastic Four,6.76,4.56
+231,Night at the Museum: Battle of the Smithsonian,6.0,6.28
+232,San Andreas,6.56,6.01
+233,Tomorrow Never Dies,5.87,6.02
+234,The Patriot,6.5,6.68
+235,Ocean's Twelve,6.61,6.37
+236,Mr. & Mrs. Smith,6.77,6.47
+237,Insurgent,6.47,6.19
+238,The Aviator,7.45,6.88
+239,Gulliver's Travels,6.32,5.23
+240,The Green Hornet,5.9,5.59
+241,300: Rise of an Empire,6.47,6.1
+242,The Smurfs,6.06,5.6
+243,Home on the Range,6.65,5.85
+244,Allegiant,6.42,5.92
+245,Real Steel,6.01,6.56
+246,The Smurfs 2,6.14,5.65
+247,Speed 2: Cruise Control,6.42,4.8
+248,Ender's Game,7.25,6.55
+249,Live Free or Die Hard,6.15,6.37
+250,The Lord of the Rings: The Fellowship of the Ring,6.86,7.95
+251,Around the World in 80 Days,6.43,5.8
+252,Alice in Wonderland,6.46,6.49
+253,"I, Robot",6.41,6.66
+254,Kingdom of Heaven,6.72,6.51
+255,Stuart Little 2,6.12,5.86
+256,The Princess and the Frog,6.65,6.6
+257,The Martian,6.69,7.55
+258,The Island,6.28,6.45
+259,Gone in Sixty Seconds,5.9,6.1
+260,Gladiator,6.59,7.82
+261,Minority Report,5.75,7.02
+262,Harry Potter and the Chamber of Secrets,6.6,7.35
+263,Casino Royale,6.67,7.23
+264,Dawn of the Planet of the Apes,6.78,5.68
+265,Terminator 2: Judgment Day,6.85,7.61
+266,Public Enemies,6.8,6.44
+267,American Gangster,6.58,7.22
+268,True Lies,6.93,6.68
+269,The Taking of Pelham 1 2 3,6.83,6.18
+270,Little Fockers,6.11,5.53
+271,The Other Guys,6.21,6.1
+272,Eraser,6.53,5.75
+273,Django Unchained,7.46,7.76
+274,The Emperor's New Groove,6.31,7.05
+275,The Expendables 2,6.1,6.1
+276,National Treasure,6.18,6.37
+277,Eragon,6.03,5.13
+278,Where the Wild Things Are,6.79,6.31
+279,Epic,6.83,6.35
+280,The Tourist,6.44,6.01
+281,End of Days,7.12,5.7
+282,Blood Diamond,6.7,7.19
+283,The Wolf of Wall Street,7.33,7.84
+284,Batman Forever,6.56,5.32
+285,Starship Troopers,5.98,6.62
+286,Cloud Atlas,6.57,6.56
+287,Legend of the Guardians: The Owls of Ga'Hoole,6.52,6.4
+288,Catwoman,6.42,4.63
+289,Hercules,6.0,5.66
+290,Treasure Planet,6.6,6.98
+291,Land of the Lost,6.58,5.6
+292,The Expendables 3,5.93,6.1
+293,Point Break,6.29,5.64
+294,In the Heart of the Sea,6.93,6.44
+295,Green Zone,6.51,6.32
+296,The Peanuts Movie,6.24,6.39
+297,The Mummy Returns,6.18,6.01
+298,Gangs of New York,7.41,6.99
+299,Surf's Up,6.67,5.95
+300,The Stepford Wives,6.35,5.69
+301,Black Hawk Down,6.68,7.07
+302,The Fifth Element,6.12,7.23
+303,Sex and the City 2,6.95,5.65
+304,The Road to El Dorado,6.16,6.8
+305,Ice Age: Continental Drift,5.96,6.19
+306,Cinderella,6.51,6.65
+307,The Lovely Bones,6.97,6.51
+308,Finding Nemo,6.43,7.54
+309,The Lord of the Rings: The Return of the King,6.85,8.04
+310,The Lord of the Rings: The Two Towers,6.86,7.94
+311,Seventh Son,6.83,5.38
+312,Lara Croft: Tomb Raider,6.15,5.74
+313,Transcendence,6.43,5.92
+314,Jurassic Park III,6.29,5.74
+315,Rise of the Planet of the Apes,6.38,6.95
+316,The Spiderwick Chronicles,6.25,6.24
+317,A Good Day to Die Hard,6.37,5.26
+318,The Incredibles,6.37,7.34
+319,Percy Jackson & the Olympians: The Lightning Thief,6.74,6.01
+320,Men in Black 3,6.42,6.86
+321,Toy Story 2,6.27,7.23
+322,Unstoppable,6.65,6.27
+323,Rush Hour 2,6.3,6.34
+324,What Lies Beneath,6.73,6.23
+325,Cloudy with a Chance of Meatballs,6.31,6.45
+326,Ice Age: Dawn of the Dinosaurs,6.38,6.46
+327,The Secret Life of Walter Mitty,6.06,6.94
+328,Charlie's Angels: Full Throttle,6.23,5.68
+329,The Departed,7.36,7.81
+330,Mulan,6.45,7.44
+331,Tropic Thunder,6.08,6.45
+332,The Girl with the Dragon Tattoo,7.18,7.1
+333,Die Hard: With a Vengeance,6.09,6.82
+334,Sherlock Holmes: A Game of Shadows,6.78,6.96
+335,Ben-Hur,6.7,5.52
+336,Atlantis: The Lost Empire,6.37,6.6
+337,Valkyrie,7.03,6.6
+338,You Don't Mess with the Zohan,5.96,5.61
+339,Pixels,6.6,5.64
+340,A.I. Artificial Intelligence,6.71,6.72
+341,The Haunted Mansion,5.84,5.5
+342,Contact,6.55,7.03
+343,Hollow Man,6.36,5.73
+344,The Interpreter,6.8,6.16
+345,Percy Jackson: Sea of Monsters,6.4,5.92
+346,Lara Croft Tomb Raider: The Cradle of Life,5.88,5.58
+347,Now You See Me 2,6.19,6.66
+348,The Saint,6.49,5.98
+349,Spy Game,6.62,6.6
+350,Mission to Mars,5.73,5.85
+351,Rio 2,6.23,6.46
+352,Bicentennial Man,6.55,6.74
+353,The Devil's Own,6.61,5.99
+354,K-19: The Widowmaker,6.69,6.1
+355,Conan the Barbarian,6.44,6.47
+356,Cinderella Man,6.73,6.97
+357,Twister,6.31,6.1
+358,Cast Away,6.61,7.4
+359,Happy Feet Two,6.48,5.93
+360,The Bourne Supremacy,6.41,7.11
+361,Air Force One,6.63,6.18
+362,Ocean's Eleven,6.47,7.14
+363,The Three Musketeers,6.17,5.7
+364,Hotel Transylvania,6.4,6.74
+365,Enchanted,6.02,6.53
+366,Safe House,6.37,6.27
+367,102 Dalmatians,6.4,5.53
+368,Tower Heist,6.14,5.86
+369,The Holiday,6.15,6.6
+370,Enemy of the State,6.76,6.6
+371,It's Complicated,6.28,6.16
+372,Ocean's Thirteen,6.54,6.46
+373,Open Season,6.55,6.1
+374,Divergent,6.43,6.86
+375,Enemy at the Gates,6.76,6.99
+376,The Rundown,6.27,6.3
+377,Last Action Hero,6.28,6.1
+378,Memoirs of a Geisha,6.89,6.98
+379,The Fast and the Furious: Tokyo Drift,6.56,6.1
+380,Meet Joe Black,7.29,6.76
+381,Collateral Damage,6.36,5.71
+382,Mirror Mirror,5.99,5.6
+383,Scott Pilgrim vs. the World,6.31,7.09
+384,The Core,6.3,5.62
+385,Nutty Professor II: The Klumps,6.37,5.28
+386,Scooby-Doo,5.56,5.55
+387,Dredd,6.8,6.55
+388,Click,6.94,6.01
+389,Jumper,6.71,5.92
+390,Hellboy II: The Golden Army,6.81,6.45
+391,Zodiac,7.34,7.17
+392,The 6th Day,5.85,5.81
+393,Bruce Almighty,6.11,6.38
+394,The Expendables 2,6.1,6.01
+395,Mission: Impossible - Rogue Nation,6.87,6.65
+396,The Hunger Games: Mockingjay - Part 2,6.35,6.88
+397,The Hangover Part II,5.98,6.19
+398,Batman Returns,6.49,6.54
+399,Over the Hedge,6.75,6.26
+400,Lilo & Stitch,6.67,6.95
+401,Charlotte's Web,6.46,5.93
+402,Deep Impact,6.72,5.94
+403,The Longest Yard,6.87,6.18
+404,Alvin and the Chipmunks: Chipwrecked,6.5,5.63
+405,Grown Ups 2,6.05,5.85
+406,Get Smart,6.22,6.02
+407,Something's Gotta Give,6.77,6.22
+408,Shutter Island,7.17,7.74
+409,Four Christmases,5.91,5.63
+410,Robots,6.8,6.01
+411,Face/Off,6.18,6.71
+412,Bedtime Stories,6.22,5.94
+413,Road to Perdition,6.41,7.08
+414,Just Go with It,5.98,6.27
+415,Con Air,6.07,6.44
+416,Eagle Eye,6.5,6.26
+417,Cold Mountain,6.72,6.51
+418,The Book of Eli,6.52,6.55
+419,Flubber,6.26,5.5
+420,The Haunting,6.14,5.55
+421,Space Jam,6.5,6.44
+422,The Day the Earth Stood Still,6.2,5.36
+423,Conspiracy Theory,6.49,6.36
+424,Mad Max: Fury Road,6.74,7.33
+425,Six Days Seven Nights,6.39,5.8
+426,Spirit: Stallion of the Cimarron,6.26,7.11
+427,Zookeeper,6.32,5.56
+428,Lost in Space,6.2,5.41
+429,The Manchurian Candidate,6.81,6.16
+430,Hotel Transylvania 2,6.51,6.62
+431,The Time Machine,6.21,5.88
+432,Swordfish,6.42,6.1
+433,The Legend of Zorro,6.71,5.94
+434,What Dreams May Come,6.42,6.59
+435,The Brothers Grimm,6.41,5.71
+436,Mars Attacks!,6.45,6.1
+437,Surrogates,6.3,5.93
+438,Daylight,5.52,5.91
+439,Battlefield Earth,6.12,4.49
+440,Looney Tunes: Back in Action,6.32,5.82
+441,Timeline,6.27,5.7
+442,The Postman,6.63,6.1
+443,Babe: Pig in the City,6.74,5.59
+444,The Last Witch Hunter,6.79,5.76
+445,Red Planet,6.84,5.73
+446,Arthur et les Minimoys,6.78,6.03
+447,Pompeii,6.57,5.34
+448,A Beautiful Mind,6.69,7.58
+449,The Lion King,5.68,7.92
+450,Journey 2: The Mysterious Island,6.53,5.85
+451,Cloudy with a Chance of Meatballs 2,6.72,6.34
+452,Red Dragon,6.13,6.59
+453,Hidalgo,6.43,6.33
+454,Jack and Jill,6.12,4.66
+455,2 Fast 2 Furious,6.21,6.19
+456,The Little Prince,6.21,7.24
+457,The Invasion,6.25,5.86
+458,The Secret Life of Pets,6.79,5.91
+459,The League of Extraordinary Gentlemen,6.19,5.77
+460,Despicable Me 2,6.57,6.96
+461,Independence Day: Resurgence,6.58,6.66
+462,The Lost World: Jurassic Park,6.59,6.19
+463,Madagascar: Escape 2 Africa,6.63,6.57
+464,Children of Men,7.04,7.27
+465,X-Men: The Last Stand,6.28,6.76
+466,Madagascar 3: Europe's Most Wanted,6.6,6.37
+467,The Rock,6.12,6.79
+468,Ice Age: The Meltdown,6.38,6.47
+469,50 First Dates,6.04,6.55
+470,Hairspray,6.16,6.4
+471,Now You See Me 2,6.19,7.25
+472,Grown Ups 2,6.05,6.01
+473,The Terminal,6.78,6.9
+474,Vertical Limit,6.81,5.99
+475,Charlie Wilson's War,6.67,6.33
+476,Shark Tale,6.6,5.84
+477,Dreamgirls,6.78,6.37
+478,Be Cool,6.25,5.71
+479,Munich,6.51,6.7
+480,Tears of the Sun,6.72,6.31
+481,Killers,6.43,5.79
+482,The Man from U.N.C.L.E.,6.75,7.01
+483,Spanglish,6.85,5.91
+484,Monster House,6.6,6.26
+485,Bandits,6.42,6.15
+486,First Knight,6.61,5.98
+487,Immortals,6.21,5.78
+488,Hostage,6.94,6.17
+489,Titan A.E.,6.43,6.21
+490,Flight of the Phoenix,6.18,5.88
+491,Unbreakable,5.87,6.81
+492,Minions,6.27,6.38
+493,Sucker Punch,6.58,5.92
+494,Snake Eyes,6.41,5.92
+495,Sphere,6.51,5.9
+496,The Angry Birds Movie,6.68,5.94
+497,Fool's Gold,5.96,5.64
+498,Funny People,6.23,5.85
+499,The Kingdom,6.25,6.37
